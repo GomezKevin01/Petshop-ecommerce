@@ -1,0 +1,39 @@
+
+/*p{
+	color: red;
+	font family: verdana; 
+}
+
+.clase{
+
+	font-style:italic;
+	text-align: center;
+	color: red; 
+*/
+
+*{
+ margin:0;
+}
+.titulo{
+ background-color: BlueViolet;
+ margin: 20px;
+}
+.parrafo{
+ background-color: crimson;
+ padding-top: 50px;
+ padding-left: 10px;
+ padding-bottom: 60px;
+ padding-right: 300px;
+}
+footer{
+align-self: flex-end;
+background-color: rgba(120,120,120, .5);
+line-height: 3;
+text-align: center;
+width: 100%;
+}
+
+.buscador{
+	background-color: green;
+ 	margin: 10px 370px;
+}
